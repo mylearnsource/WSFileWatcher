@@ -1,0 +1,181 @@
+﻿Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Service WatchDog has been successfully installed.
+Creating EventLog source WatchDog in log Application...
+Committing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Creating EventLog source WatchDog in log Application...
+Rolling back assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Restoring event log to previous state for source WatchDog.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Creating EventLog source WatchDog in log Application...
+Rolling back assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Restoring event log to previous state for source WatchDog.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Creating EventLog source WatchDog in log Application...
+Rolling back assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Restoring event log to previous state for source WatchDog.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+Service WatchDog is being removed from the system...
+Service WatchDog was successfully removed from the system.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Service WatchDog has been successfully installed.
+Creating EventLog source WatchDog in log Application...
+Committing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+Service WatchDog is being removed from the system...
+Service WatchDog was successfully removed from the system.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Creating EventLog source WatchDog in log Application...
+Rolling back assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Restoring event log to previous state for source WatchDog.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+Warning: The source WatchDog is not registered on the local machine.
+Service WatchDog is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+Warning: The source WatchDog is not registered on the local machine.
+Service WatchDog is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Service WatchDog has been successfully installed.
+Creating EventLog source WatchDog in log Application...
+Committing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Uninstalling assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+Removing EventLog source WatchDog.
+Service WatchDog is being removed from the system...
+Service WatchDog was successfully removed from the system.
+Attempt to stop service WatchDog.
+Installing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
+Installing service WatchDog...
+Service WatchDog has been successfully installed.
+Creating EventLog source WatchDog in log Application...
+Committing assembly 'C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+   logfile = C:\Users\anbur\source\repos\WatchDog\WatchDog\bin\Debug\WatchDog.InstallLog
